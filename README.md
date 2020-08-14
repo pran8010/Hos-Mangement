@@ -25,3 +25,4 @@
 Hospital management system Ver : 1.5.2
 ***
 ## You will need to import pandas, numpy to run raw .py file. You need to run new_main2.py to start program.
+### download from this link https://drive.google.com/file/d/1ZJmsqzeQ8Y1ugT7WaIhcFLUVgfB1f2rI/view?usp=sharing to install the app on your system.
